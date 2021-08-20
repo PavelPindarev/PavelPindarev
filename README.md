@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @PavelPindarev
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me 
+- Intstagram: ppindarev
+- Facebook: Pavel Pindarev
 
 <!---
 PavelPindarev/PavelPindarev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
