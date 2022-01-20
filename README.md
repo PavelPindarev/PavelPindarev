@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PavelPindarev
 - 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Java, SpringBoot
+- 🌱 I’m currently learning MySQL
 - 📫 How to reach me 
 - Intstagram: ppindarev
 - Facebook: Pavel Pindarev
