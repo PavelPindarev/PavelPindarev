@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @PavelPindarev
 - 👀 I’m interested in Java Web Development
-- 🌱 I’m currently learning MySQL
+- 🌱 I’m currently learning Spring Fundamentals and Spring Advanced
 - 📫 How to reach me:
-- Intstagram: ppindarev
+- Intstagram: pindarew
 - Facebook: Pavel Pindarev
 - Linkedin: https://www.linkedin.com/in/pavel-pindarev/
 
