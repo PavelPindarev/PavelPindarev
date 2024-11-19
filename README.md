@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [JourneyMate](https://github.com/PavelPindarev/JourneyMate)
 
-- 🌱 I’m currently learning **JavaScript**
-
 - 👨‍💻 All of my projects are available at [https://github.com/PavelPindarev?tab=repositories](https://github.com/PavelPindarev?tab=repositories)
 
 - 💬 Ask me about **Java, SpringBoot, SQL**
